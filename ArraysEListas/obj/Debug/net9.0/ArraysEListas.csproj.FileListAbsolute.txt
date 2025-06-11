@@ -1,0 +1,15 @@
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/bin/Debug/net9.0/ArraysEListas
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/bin/Debug/net9.0/ArraysEListas.deps.json
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/bin/Debug/net9.0/ArraysEListas.runtimeconfig.json
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/bin/Debug/net9.0/ArraysEListas.dll
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/bin/Debug/net9.0/ArraysEListas.pdb
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/obj/Debug/net9.0/ArraysEListas.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/obj/Debug/net9.0/ArraysEListas.AssemblyInfoInputs.cache
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/obj/Debug/net9.0/ArraysEListas.AssemblyInfo.cs
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/obj/Debug/net9.0/ArraysEListas.csproj.CoreCompileInputs.cache
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/obj/Debug/net9.0/ArraysEListas.sourcelink.json
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/obj/Debug/net9.0/ArraysEListas.dll
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/obj/Debug/net9.0/refint/ArraysEListas.dll
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/obj/Debug/net9.0/ArraysEListas.pdb
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/obj/Debug/net9.0/ArraysEListas.genruntimeconfig.cache
+/home/eduardo/Programacao/DioWexBootcamp/ArraysEListas/obj/Debug/net9.0/ref/ArraysEListas.dll
