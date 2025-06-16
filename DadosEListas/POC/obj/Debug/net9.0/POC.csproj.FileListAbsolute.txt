@@ -1,0 +1,15 @@
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/bin/Debug/net9.0/POC
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/bin/Debug/net9.0/POC.deps.json
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/bin/Debug/net9.0/POC.runtimeconfig.json
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/bin/Debug/net9.0/POC.dll
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/bin/Debug/net9.0/POC.pdb
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/obj/Debug/net9.0/POC.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/obj/Debug/net9.0/POC.AssemblyInfoInputs.cache
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/obj/Debug/net9.0/POC.AssemblyInfo.cs
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/obj/Debug/net9.0/POC.csproj.CoreCompileInputs.cache
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/obj/Debug/net9.0/POC.sourcelink.json
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/obj/Debug/net9.0/POC.dll
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/obj/Debug/net9.0/refint/POC.dll
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/obj/Debug/net9.0/POC.pdb
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/obj/Debug/net9.0/POC.genruntimeconfig.cache
+/home/eduardo/Programacao/DioWexBootcamp/DadosEListas/POC/obj/Debug/net9.0/ref/POC.dll
