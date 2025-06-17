@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("POC")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ExcecoesEColecoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3adeb0df021b02550d48d2f12086b28d919b8ebe")]
-[assembly: System.Reflection.AssemblyProductAttribute("POC")]
-[assembly: System.Reflection.AssemblyTitleAttribute("POC")]
+[assembly: System.Reflection.AssemblyProductAttribute("ExcecoesEColecoes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ExcecoesEColecoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

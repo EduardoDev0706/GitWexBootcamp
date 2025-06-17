@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace POC.Models
 {
     // Estudo de métodos
@@ -29,10 +24,13 @@ namespace POC.Models
 
         public void ListarAlunos()
         {
-            foreach (Pessoa aluno in Alunos)
+            System.Console.WriteLine($"Alunos do curso de: {Nome}");
+            for (int count = 0; count < Alunos.Count; count++)
             {
-                System.Console.WriteLine(aluno.NomeCompleto);
+                string texto = $"N° {count + 1} - {Alunos[count].NomeCompleto}";
+                System.Console.WriteLine(texto);
             }
         }
+
     }
 }

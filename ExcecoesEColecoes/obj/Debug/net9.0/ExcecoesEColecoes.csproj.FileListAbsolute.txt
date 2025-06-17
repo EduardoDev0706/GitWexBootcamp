@@ -1,0 +1,15 @@
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/bin/Debug/net9.0/ExcecoesEColecoes
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/bin/Debug/net9.0/ExcecoesEColecoes.deps.json
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/bin/Debug/net9.0/ExcecoesEColecoes.runtimeconfig.json
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/bin/Debug/net9.0/ExcecoesEColecoes.dll
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/bin/Debug/net9.0/ExcecoesEColecoes.pdb
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/obj/Debug/net9.0/ExcecoesEColecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/obj/Debug/net9.0/ExcecoesEColecoes.AssemblyInfoInputs.cache
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/obj/Debug/net9.0/ExcecoesEColecoes.AssemblyInfo.cs
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/obj/Debug/net9.0/ExcecoesEColecoes.csproj.CoreCompileInputs.cache
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/obj/Debug/net9.0/ExcecoesEColecoes.sourcelink.json
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/obj/Debug/net9.0/ExcecoesEColecoes.dll
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/obj/Debug/net9.0/refint/ExcecoesEColecoes.dll
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/obj/Debug/net9.0/ExcecoesEColecoes.pdb
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/obj/Debug/net9.0/ExcecoesEColecoes.genruntimeconfig.cache
+/home/eduardo/Programacao/DioWexBootcamp/ExcecoesEColecoes/obj/Debug/net9.0/ref/ExcecoesEColecoes.dll

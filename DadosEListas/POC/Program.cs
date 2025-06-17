@@ -33,18 +33,18 @@ p.Apresentar();
 
 // Métodos - Prática
 
-using POC.Models;
+// using POC.Models;
 
-Pessoa p = new Pessoa("Eduardo", "Do Carmo");
-Pessoa p1 = new Pessoa("Jose","Saramago");
+// Pessoa p = new Pessoa("Eduardo", "Do Carmo");
+// Pessoa p1 = new Pessoa("Jose","Saramago");
 
-Curso cursoDeIngles = new Curso();
-cursoDeIngles.Nome = "Ingles";
-cursoDeIngles.Alunos = new List<Pessoa>();
+// Curso cursoDeIngles = new Curso();
+// cursoDeIngles.Nome = "Ingles";
+// cursoDeIngles.Alunos = new List<Pessoa>();
 
-cursoDeIngles.AdicionarAluno(p);
-cursoDeIngles.AdicionarAluno(p1);
-cursoDeIngles.ListarAlunos();
+// cursoDeIngles.AdicionarAluno(p);
+// cursoDeIngles.AdicionarAluno(p1);
+// cursoDeIngles.ListarAlunos();
 
 // Construtores - Definição
 /* 
@@ -55,5 +55,27 @@ cursoDeIngles.ListarAlunos();
     do tipo sejam válidas quando criadas.
 */
 
+/* 
+Pessoa p = new Pessoa("Eduardo", "Do Carmo");
+Pessoa p1 = new Pessoa("Jose","Saramago");
+*/
 
+// Concatenando valores - + SE COMPORTA COMO UM CONCATENADOR, JUNTANDO OS TEXTOS
 
+// int numero1 = 10;
+// string numero2 = "20";
+
+// string resultado = numero1 + numero2;
+
+// System.Console.WriteLine(resultado);
+
+// Representando valores monetários - C de Currency (moeda)
+
+// decimal valorMonetario = 82.40M;
+
+// System.Console.WriteLine($"{valorMonetario:C}");
+
+// Utilizando o método DateTime e imprimindo valores específicos com ToString
+// DateTime data = DateTime.Now;
+
+// System.Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
