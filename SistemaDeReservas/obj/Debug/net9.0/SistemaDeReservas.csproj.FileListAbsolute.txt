@@ -1,0 +1,15 @@
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/obj/Debug/net9.0/SistemaDeReservas.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/obj/Debug/net9.0/SistemaDeReservas.AssemblyInfoInputs.cache
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/obj/Debug/net9.0/SistemaDeReservas.AssemblyInfo.cs
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/obj/Debug/net9.0/SistemaDeReservas.csproj.CoreCompileInputs.cache
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/obj/Debug/net9.0/SistemaDeReservas.sourcelink.json
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/bin/Debug/net9.0/SistemaDeReservas
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/bin/Debug/net9.0/SistemaDeReservas.deps.json
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/bin/Debug/net9.0/SistemaDeReservas.runtimeconfig.json
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/bin/Debug/net9.0/SistemaDeReservas.dll
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/bin/Debug/net9.0/SistemaDeReservas.pdb
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/obj/Debug/net9.0/SistemaDeReservas.dll
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/obj/Debug/net9.0/refint/SistemaDeReservas.dll
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/obj/Debug/net9.0/SistemaDeReservas.pdb
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/obj/Debug/net9.0/SistemaDeReservas.genruntimeconfig.cache
+/home/eduardo/Programacao/DioWexBootcamp/SistemaDeReservas/obj/Debug/net9.0/ref/SistemaDeReservas.dll
