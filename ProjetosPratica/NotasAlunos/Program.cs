@@ -37,7 +37,16 @@ public class Program
                     string matricula = Console.ReadLine();
                     Aluno aluno = new Aluno(nome, matricula);
 
-                    Notas notasObj = new Notas();
+                    Console.Write("Defina um limite de notas máximo");
+                    int limiteNotas;
+                    if (!int.TryParse(Console.ReadLine(), out limiteNotas) || limiteNotas <= 0)
+                    {
+                        Console.WriteLine("Limite de notas inválido. Usando o limite padrão de 4.");
+                        limiteNotas = 4;
+                    }
+
+                    Notas notasObj = new Notas(limiteNotas);
+
                     while (true)
                     {
                         Console.Write("Digite uma nota (ou 'fim' para terminar): ");
@@ -48,10 +57,10 @@ public class Program
                         }
                         try
                         {
-                            double nota = double.Parse(notaStr); // Tenta converter para double
-                            notasObj.AdicionarNota(nota);
+                            double nota = double.Parse(notaStr);
+                            notasObj.AdicionarNota(nota); // A classe Notas agora gerencia o limite
                         }
-                        catch (FormatException) // Captura erro se a string não for um número
+                        catch (FormatException)
                         {
                             Console.WriteLine("Nota inválida. Digite um número ou 'fim'.");
                         }
@@ -59,10 +68,12 @@ public class Program
                     planilha.AdicionarAluno(aluno, notasObj);
                     break;
                 case 2:
-                    ListarAluno();
+                    planilha.ListarAlunos();
                     break;
                 case 3:
-                    RemoverAluno();
+                    Console.Write("Digite a matrícula do aluno a ser removido:");
+                    string matriculaRemover = Console.ReadLine();
+                    planilha.RemoverAluno(matriculaRemover);
                     break;
                 case 4:
                     Console.WriteLine("Encerrando...");
@@ -70,12 +81,6 @@ public class Program
                 default:
                     Console.WriteLine("Opcao Invalida.");
                     break;
-            }
-
-            if (opcao != 4)
-            {
-                Console.Write("\nPressione ENTER para continuar...");
-                Console.ReadLine();
             }
 
         } while (opcao != 4);
