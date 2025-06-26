@@ -1,0 +1,15 @@
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/obj/Debug/net9.0/NotasAlunos.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/obj/Debug/net9.0/NotasAlunos.AssemblyInfoInputs.cache
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/obj/Debug/net9.0/NotasAlunos.AssemblyInfo.cs
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/obj/Debug/net9.0/NotasAlunos.csproj.CoreCompileInputs.cache
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/obj/Debug/net9.0/NotasAlunos.sourcelink.json
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/bin/Debug/net9.0/NotasAlunos
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/bin/Debug/net9.0/NotasAlunos.deps.json
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/bin/Debug/net9.0/NotasAlunos.runtimeconfig.json
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/bin/Debug/net9.0/NotasAlunos.dll
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/bin/Debug/net9.0/NotasAlunos.pdb
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/obj/Debug/net9.0/NotasAlunos.dll
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/obj/Debug/net9.0/refint/NotasAlunos.dll
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/obj/Debug/net9.0/NotasAlunos.pdb
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/obj/Debug/net9.0/NotasAlunos.genruntimeconfig.cache
+/home/eduardo/Programacao/DioWexBootcamp/ProjetosPratica/NotasAlunos/obj/Debug/net9.0/ref/NotasAlunos.dll
